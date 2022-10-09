@@ -7,6 +7,4 @@ Reduzimos também a repetição de código no javaScript para aumentar o reaprov
 
 ## Observações
 
-Abaixo tela do projeto:
-
-![](./videos/2022-10-08%2021-17-08_1.mp4 "Exibindo projeto")
+Link do projeto no gitpages: https://lephyns.github.io/projeto-batida/
